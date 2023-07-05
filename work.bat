@@ -1,5 +1,5 @@
 REM
-REM $Id$
+REM $Id: work.bat 5486 2014-11-22 22:37:03Z kevinanlipscomb $
 REM
 cd "C:\Inetpub\wwwroot\ConEdLink"
 start /max explorer /e,/select,C:\Inetpub\wwwroot\ConEdLink\.svn
