@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/KevinAndrewLipscomb/emsilib.git
 	branch = master
-	commit = 6ac9937b9927db77141c1004f545d1545d0a9616
-	parent = b4527ec9f27dd0b841d944612fe881cc0090e57f
+	commit = c4e5d785fcb3cc8a6c150961ae11349c3f206688
+	parent = da3bd889c8ac6fb9147601f10d8ef44386897ac2
 	method = merge
 	cmdver = 0.4.6
