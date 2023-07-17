@@ -1,5 +1,6 @@
 // Derived from KiAspdotnetFramework/UserControl/app/UserControl~template~binder.cs~template
 
+using AjaxControlToolkit;
 using kix;
 using UserControl_analysis_intro;
 using UserControl_analysis_of_region_by_year;

@@ -1,14 +1,12 @@
-using MySql.Data.MySqlClient;
-using kix;
-using System;
-
-using System.Web.UI.WebControls;
 using Class_db;
 using Class_db_trail;
+using kix;
+using MySql.Data.MySqlClient;
+using System.Web.UI.WebControls;
 
 namespace Class_db_coned_offering_class_final_statuses
 {
-    public class TClass_db_coned_offering_class_final_statuses: TClass_db
+  public class TClass_db_coned_offering_class_final_statuses: TClass_db
     {
         private readonly TClass_db_trail db_trail = null;
 
