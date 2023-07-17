@@ -174,14 +174,12 @@
     <Compile Include="component\fs\Class_fs.cs" />
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
     <Compile Include="exception.aspx.cs">
       <DependentUpon>exception.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="exception.aspx.designer.cs">
       <DependentUpon>exception.aspx</DependentUpon>
@@ -191,70 +189,60 @@
     </Compile>
     <Compile Include="login.aspx.cs">
       <DependentUpon>login.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="login.aspx.designer.cs">
       <DependentUpon>login.aspx</DependentUpon>
     </Compile>
     <Compile Include="new_password.aspx.cs">
       <DependentUpon>new_password.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="new_password.aspx.designer.cs">
       <DependentUpon>new_password.aspx</DependentUpon>
     </Compile>
     <Compile Include="noninteractive\daily_tasks.aspx.cs">
       <DependentUpon>daily_tasks.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="noninteractive\daily_tasks.aspx.designer.cs">
       <DependentUpon>daily_tasks.aspx</DependentUpon>
     </Compile>
     <Compile Include="noninteractive\first_of_calendar_year_tasks.aspx.cs">
       <DependentUpon>first_of_calendar_year_tasks.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="noninteractive\first_of_calendar_year_tasks.aspx.designer.cs">
       <DependentUpon>first_of_calendar_year_tasks.aspx</DependentUpon>
     </Compile>
     <Compile Include="noninteractive\import_latest_teaching_entities_from_emsrs.aspx.cs">
       <DependentUpon>import_latest_teaching_entities_from_emsrs.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="noninteractive\import_latest_teaching_entities_from_emsrs.aspx.designer.cs">
       <DependentUpon>import_latest_teaching_entities_from_emsrs.aspx</DependentUpon>
     </Compile>
     <Compile Include="noninteractive\import_latest_practitioners_from_emsrs.aspx.cs">
       <DependentUpon>import_latest_practitioners_from_emsrs.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="noninteractive\import_latest_practitioners_from_emsrs.aspx.designer.cs">
       <DependentUpon>import_latest_practitioners_from_emsrs.aspx</DependentUpon>
     </Compile>
     <Compile Include="noninteractive\import_latest_coned_offerings_from_emsrs.aspx.cs">
       <DependentUpon>import_latest_coned_offerings_from_emsrs.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="noninteractive\import_latest_coned_offerings_from_emsrs.aspx.designer.cs">
       <DependentUpon>import_latest_coned_offerings_from_emsrs.aspx</DependentUpon>
     </Compile>
     <Compile Include="noninteractive\report_commanded_training_certificate.aspx.cs">
       <DependentUpon>report_commanded_training_certificate.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="noninteractive\report_commanded_training_certificate.aspx.designer.cs">
       <DependentUpon>report_commanded_training_certificate.aspx</DependentUpon>
     </Compile>
     <Compile Include="noninteractive\report_commanded_training_certificate_legacy.aspx.cs">
       <DependentUpon>report_commanded_training_certificate_legacy.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="noninteractive\report_commanded_training_certificate_legacy.aspx.designer.cs">
       <DependentUpon>report_commanded_training_certificate_legacy.aspx</DependentUpon>
     </Compile>
     <Compile Include="noninteractive\special_task.aspx.cs">
       <DependentUpon>special_task.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="noninteractive\special_task.aspx.designer.cs">
       <DependentUpon>special_task.aspx</DependentUpon>
@@ -267,28 +255,24 @@
     </Compile>
     <Compile Include="protected\bounty_program.aspx.cs">
       <DependentUpon>bounty_program.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="protected\bounty_program.aspx.designer.cs">
       <DependentUpon>bounty_program.aspx</DependentUpon>
     </Compile>
     <Compile Include="protected\change_email_address.aspx.cs">
       <DependentUpon>change_email_address.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="protected\change_email_address.aspx.designer.cs">
       <DependentUpon>change_email_address.aspx</DependentUpon>
     </Compile>
     <Compile Include="protected\change_password.aspx.cs">
       <DependentUpon>change_password.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="protected\change_password.aspx.designer.cs">
       <DependentUpon>change_password.aspx</DependentUpon>
     </Compile>
     <Compile Include="protected\change_practitioner_email_address.aspx.cs">
       <DependentUpon>change_practitioner_email_address.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="protected\change_practitioner_email_address.aspx.designer.cs">
       <DependentUpon>change_practitioner_email_address.aspx</DependentUpon>
@@ -296,182 +280,156 @@
     <Compile Include="protected\Class_msg_protected.cs" />
     <Compile Include="protected\coned_offering_detail.aspx.cs">
       <DependentUpon>coned_offering_detail.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="protected\coned_offering_detail.aspx.designer.cs">
       <DependentUpon>coned_offering_detail.aspx</DependentUpon>
     </Compile>
     <Compile Include="protected\coned_offering_roster.aspx.cs">
       <DependentUpon>coned_offering_roster.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="protected\coned_offering_roster.aspx.designer.cs">
       <DependentUpon>coned_offering_roster.aspx</DependentUpon>
     </Compile>
     <Compile Include="protected\coned_sponsor_detail.aspx.cs">
       <DependentUpon>coned_sponsor_detail.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="protected\coned_sponsor_detail.aspx.designer.cs">
       <DependentUpon>coned_sponsor_detail.aspx</DependentUpon>
     </Compile>
     <Compile Include="protected\coned_sponsor_overview.aspx.cs">
       <DependentUpon>coned_sponsor_overview.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="protected\coned_sponsor_overview.aspx.designer.cs">
       <DependentUpon>coned_sponsor_overview.aspx</DependentUpon>
     </Compile>
     <Compile Include="protected\hardcopy_roster.aspx.cs">
       <DependentUpon>hardcopy_roster.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="protected\hardcopy_roster.aspx.designer.cs">
       <DependentUpon>hardcopy_roster.aspx</DependentUpon>
     </Compile>
     <Compile Include="protected\ready_roster_detail.aspx.cs">
       <DependentUpon>ready_roster_detail.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="protected\ready_roster_detail.aspx.designer.cs">
       <DependentUpon>ready_roster_detail.aspx</DependentUpon>
     </Compile>
     <Compile Include="protected\regional_staffer_overview.aspx.cs">
       <DependentUpon>regional_staffer_overview.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="protected\regional_staffer_overview.aspx.designer.cs">
       <DependentUpon>regional_staffer_overview.aspx</DependentUpon>
     </Compile>
     <Compile Include="protected\training_certificate_legacy.aspx.cs">
       <DependentUpon>training_certificate_legacy.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="protected\training_certificate_legacy.aspx.designer.cs">
       <DependentUpon>training_certificate_legacy.aspx</DependentUpon>
     </Compile>
     <Compile Include="protected\training_certificate_package.aspx.cs">
       <DependentUpon>training_certificate_package.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="protected\training_certificate_package.aspx.designer.cs">
       <DependentUpon>training_certificate_package.aspx</DependentUpon>
     </Compile>
     <Compile Include="salogin.aspx.cs">
       <DependentUpon>salogin.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="salogin.aspx.designer.cs">
       <DependentUpon>salogin.aspx</DependentUpon>
     </Compile>
     <Compile Include="timeout.aspx.cs">
       <DependentUpon>timeout.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="timeout.aspx.designer.cs">
       <DependentUpon>timeout.aspx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_about.ascx.cs">
       <DependentUpon>UserControl_about.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_about.ascx.designer.cs">
       <DependentUpon>UserControl_about.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_intro.ascx.cs">
       <DependentUpon>UserControl_analysis_intro.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_intro.ascx.designer.cs">
       <DependentUpon>UserControl_analysis_intro.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_region_binder.ascx.cs">
       <DependentUpon>UserControl_analysis_of_region_binder.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_region_binder.ascx.designer.cs">
       <DependentUpon>UserControl_analysis_of_region_binder.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_region_by_county.ascx.cs">
       <DependentUpon>UserControl_analysis_of_region_by_county.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_region_by_county.ascx.designer.cs">
       <DependentUpon>UserControl_analysis_of_region_by_county.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_region_by_course.ascx.cs">
       <DependentUpon>UserControl_analysis_of_region_by_course.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_region_by_course.ascx.designer.cs">
       <DependentUpon>UserControl_analysis_of_region_by_course.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_region_by_month.ascx.cs">
       <DependentUpon>UserControl_analysis_of_region_by_month.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_region_by_month.ascx.designer.cs">
       <DependentUpon>UserControl_analysis_of_region_by_month.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_region_by_sponsor.ascx.cs">
       <DependentUpon>UserControl_analysis_of_region_by_sponsor.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_region_by_sponsor.ascx.designer.cs">
       <DependentUpon>UserControl_analysis_of_region_by_sponsor.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_region_by_year.ascx.cs">
       <DependentUpon>UserControl_analysis_of_region_by_year.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_region_by_year.ascx.designer.cs">
       <DependentUpon>UserControl_analysis_of_region_by_year.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_sponsor_binder.ascx.cs">
       <DependentUpon>UserControl_analysis_of_sponsor_binder.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_sponsor_binder.ascx.designer.cs">
       <DependentUpon>UserControl_analysis_of_sponsor_binder.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_sponsor_by_county.ascx.cs">
       <DependentUpon>UserControl_analysis_of_sponsor_by_county.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_sponsor_by_county.ascx.designer.cs">
       <DependentUpon>UserControl_analysis_of_sponsor_by_county.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_sponsor_by_course.ascx.cs">
       <DependentUpon>UserControl_analysis_of_sponsor_by_course.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_sponsor_by_course.ascx.designer.cs">
       <DependentUpon>UserControl_analysis_of_sponsor_by_course.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_sponsor_by_month.ascx.cs">
       <DependentUpon>UserControl_analysis_of_sponsor_by_month.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_sponsor_by_month.ascx.designer.cs">
       <DependentUpon>UserControl_analysis_of_sponsor_by_month.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_sponsor_by_year.ascx.cs">
       <DependentUpon>UserControl_analysis_of_sponsor_by_year.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_analysis_of_sponsor_by_year.ascx.designer.cs">
       <DependentUpon>UserControl_analysis_of_sponsor_by_year.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_app_level_announcement.ascx.cs">
       <DependentUpon>UserControl_app_level_announcement.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_app_level_announcement.ascx.designer.cs">
       <DependentUpon>UserControl_app_level_announcement.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_change_practitioner_email_address.ascx.cs">
       <DependentUpon>UserControl_change_practitioner_email_address.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_change_practitioner_email_address.ascx.designer.cs">
       <DependentUpon>UserControl_change_practitioner_email_address.ascx</DependentUpon>
@@ -484,7 +442,6 @@
     </Compile>
     <Compile Include="usercontrol\app\UserControl_common_header_bar.ascx.cs">
       <DependentUpon>UserControl_common_header_bar.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_common_header_bar.ascx.designer.cs">
       <DependentUpon>UserControl_common_header_bar.ascx</DependentUpon>
@@ -497,42 +454,36 @@
     </Compile>
     <Compile Include="usercontrol\app\UserControl_coned_offering.ascx.cs">
       <DependentUpon>UserControl_coned_offering.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_coned_offering.ascx.designer.cs">
       <DependentUpon>UserControl_coned_offering.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_coned_offering_class_final_status.ascx.cs">
       <DependentUpon>UserControl_coned_offering_class_final_status.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_coned_offering_class_final_status.ascx.designer.cs">
       <DependentUpon>UserControl_coned_offering_class_final_status.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_coned_offering_document_status.ascx.cs">
       <DependentUpon>UserControl_coned_offering_document_status.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_coned_offering_document_status.ascx.designer.cs">
       <DependentUpon>UserControl_coned_offering_document_status.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_coned_offering_status.ascx.cs">
       <DependentUpon>UserControl_coned_offering_status.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_coned_offering_status.ascx.designer.cs">
       <DependentUpon>UserControl_coned_offering_status.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_coned_sponsor.ascx.cs">
       <DependentUpon>UserControl_coned_sponsor.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_coned_sponsor.ascx.designer.cs">
       <DependentUpon>UserControl_coned_sponsor.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_coned_sponsors.ascx.cs">
       <DependentUpon>UserControl_coned_sponsors.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_coned_sponsors.ascx.designer.cs">
       <DependentUpon>UserControl_coned_sponsors.ascx</DependentUpon>
@@ -548,28 +499,24 @@
     </Compile>
     <Compile Include="usercontrol\app\UserControl_coned_sponsor_user.ascx.cs">
       <DependentUpon>UserControl_coned_sponsor_user.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_coned_sponsor_user.ascx.designer.cs">
       <DependentUpon>UserControl_coned_sponsor_user.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_config.ascx.cs">
       <DependentUpon>UserControl_config.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_config.ascx.designer.cs">
       <DependentUpon>UserControl_config.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_counties.ascx.cs">
       <DependentUpon>UserControl_counties.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_counties.ascx.designer.cs">
       <DependentUpon>UserControl_counties.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_discarded_rosters.ascx.cs">
       <DependentUpon>UserControl_discarded_rosters.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_discarded_rosters.ascx.designer.cs">
       <DependentUpon>UserControl_discarded_rosters.ascx</DependentUpon>
@@ -582,35 +529,30 @@
     </Compile>
     <Compile Include="usercontrol\app\UserControl_postcontent.ascx.cs">
       <DependentUpon>UserControl_postcontent.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_postcontent.ascx.designer.cs">
       <DependentUpon>UserControl_postcontent.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_practitioner.ascx.cs">
       <DependentUpon>UserControl_practitioner.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_practitioner.ascx.designer.cs">
       <DependentUpon>UserControl_practitioner.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_practitioner_coned_detail.ascx.cs">
       <DependentUpon>UserControl_practitioner_coned_detail.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_practitioner_coned_detail.ascx.designer.cs">
       <DependentUpon>UserControl_practitioner_coned_detail.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_practitioner_level.ascx.cs">
       <DependentUpon>UserControl_practitioner_level.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_practitioner_level.ascx.designer.cs">
       <DependentUpon>UserControl_practitioner_level.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_precontent.ascx.cs">
       <DependentUpon>UserControl_precontent.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_precontent.ascx.designer.cs">
       <DependentUpon>UserControl_precontent.ascx</DependentUpon>
@@ -629,14 +571,12 @@
     </Compile>
     <Compile Include="usercontrol\app\UserControl_regional_staffer_emsrs_gateway_binder.ascx.cs">
       <DependentUpon>UserControl_regional_staffer_emsrs_gateway_binder.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_regional_staffer_emsrs_gateway_binder.ascx.designer.cs">
       <DependentUpon>UserControl_regional_staffer_emsrs_gateway_binder.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_roster.ascx.cs">
       <DependentUpon>UserControl_roster.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_roster.ascx.designer.cs">
       <DependentUpon>UserControl_roster.ascx</DependentUpon>
@@ -649,84 +589,72 @@
     </Compile>
     <Compile Include="usercontrol\app\UserControl_teaching_entity.ascx.cs">
       <DependentUpon>UserControl_teaching_entity.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_teaching_entity.ascx.designer.cs">
       <DependentUpon>UserControl_teaching_entity.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_teaching_entity_business_type.ascx.cs">
       <DependentUpon>UserControl_teaching_entity_business_type.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_teaching_entity_business_type.ascx.designer.cs">
       <DependentUpon>UserControl_teaching_entity_business_type.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_teaching_entity_level.ascx.cs">
       <DependentUpon>UserControl_teaching_entity_level.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_teaching_entity_level.ascx.designer.cs">
       <DependentUpon>UserControl_teaching_entity_level.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_training_certificate.ascx.cs">
       <DependentUpon>UserControl_training_certificate.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_training_certificate.ascx.designer.cs">
       <DependentUpon>UserControl_training_certificate.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_training_certificate_legacy.ascx.cs">
       <DependentUpon>UserControl_training_certificate_legacy.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_training_certificate_legacy.ascx.designer.cs">
       <DependentUpon>UserControl_training_certificate_legacy.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_training_institute_status.ascx.cs">
       <DependentUpon>UserControl_training_institute_status.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_training_institute_status.ascx.designer.cs">
       <DependentUpon>UserControl_training_institute_status.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_update_progress_blocker.ascx.cs">
       <DependentUpon>UserControl_update_progress_blocker.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\app\UserControl_update_progress_blocker.ascx.designer.cs">
       <DependentUpon>UserControl_update_progress_blocker.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_about_by.ascx.cs">
       <DependentUpon>UserControl_about_by.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_about_by.ascx.designer.cs">
       <DependentUpon>UserControl_about_by.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_about_tools.ascx.cs">
       <DependentUpon>UserControl_about_tools.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_about_tools.ascx.designer.cs">
       <DependentUpon>UserControl_about_tools.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_attachment_explorer.ascx.cs">
       <DependentUpon>UserControl_attachment_explorer.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_attachment_explorer.ascx.designer.cs">
       <DependentUpon>UserControl_attachment_explorer.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_bread_crumb_trail.ascx.cs">
       <DependentUpon>UserControl_bread_crumb_trail.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_bread_crumb_trail.ascx.designer.cs">
       <DependentUpon>UserControl_bread_crumb_trail.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_config_welcome.ascx.cs">
       <DependentUpon>UserControl_config_welcome.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_config_welcome.ascx.designer.cs">
       <DependentUpon>UserControl_config_welcome.ascx</DependentUpon>
@@ -739,14 +667,12 @@
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_print_div.ascx.cs">
       <DependentUpon>UserControl_print_div.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_print_div.ascx.designer.cs">
       <DependentUpon>UserControl_print_div.ascx</DependentUpon>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_session_interrupted.ascx.cs">
       <DependentUpon>UserControl_session_interrupted.ascx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="usercontrol\ki\UserControl_session_interrupted.ascx.designer.cs">
       <DependentUpon>UserControl_session_interrupted.ascx</DependentUpon>
@@ -762,6 +688,7 @@
     <Content Include="exception.aspx" />
     <Content Include="Global.asax" />
     <Content Include="js\sha1.js" />
+    <Content Include="lib\000-README-IF-COMPILING.html" />
     <Content Include="login.aspx" />
     <Content Include="new_password.aspx" />
     <Content Include="noninteractive\first_of_calendar_year_tasks.aspx" />
@@ -910,17 +837,6 @@
       <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
       <CachedSettingsPropName>ConEdLink_WebReference_emsams_EMSREGWebServices</CachedSettingsPropName>
     </WebReferenceUrl>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="lib\emsi\emsi.csproj">
-      <Project>{c022dad1-a109-4dc1-b770-9c4d70b6a39a}</Project>
-      <Name>emsi</Name>
-      <Private>True</Private>
-    </ProjectReference>
-    <ProjectReference Include="lib\ki\ki.csproj">
-      <Project>{a20c347b-5154-47b9-a275-36157bf73352}</Project>
-      <Name>ki</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
