@@ -732,6 +732,7 @@
     <Content Include="unpublished.config" />
     <None Include="noninteractive\.crontab" />
     <Content Include="protected\Web.config" />
+    <Content Include="usercontrol\000-README-RE-REQUIRED-ki-JUNCTION.txt" />
     <Content Include="usercontrol\app\UserControl_about.ascx" />
     <Content Include="usercontrol\app\UserControl_analysis_intro.ascx" />
     <Content Include="usercontrol\app\UserControl_analysis_of_region_binder.ascx" />
