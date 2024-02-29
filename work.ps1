@@ -1,5 +1,5 @@
 Set-Location "C:\Inetpub\wwwroot\ConEdLink"
-Start-Process -WindowStyle Maximized "C:\Inetpub\wwwroot\ConEdLink"
+Start-Process -WindowStyle Maximized "."
 Start-Process -WindowStyle Maximized ConEdLink.sln
 IF (Test-Path "C:\Program Files\MySQL\MySQL Workbench\MySQLWorkbench.exe")
   {
